@@ -13,7 +13,7 @@
 - 👨‍💻 **Explore My Projects**: [Portfolio Website](https://mustakkhan.owlstown.net/)
 - 📫 **Contact Me**: [mustakkhan.bmb.cu@gmail.com](mailto:mustakkhan.bmb.cu@gmail.com)
 - 🌱 **Currently Learning**: Advanced Python and Machine Learning
-- ⚡ **Fun Fact**: I love blending data science with healthcare to create meaningful insights!
+
 
 ---
 
