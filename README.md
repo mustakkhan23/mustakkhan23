@@ -22,7 +22,7 @@
   <a href="https://twitter.com/md_mustak_khan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/@md_mustak_khan" target="_blank">
+  <a href="https://www.linkedin.com/in/mustakkhan23/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://fb.com/mustak.bmb.cu" target="_blank">
